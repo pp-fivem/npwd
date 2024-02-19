@@ -6,8 +6,6 @@
   "license": "CC-BY-NC-SA-4.0",
   "private": true,
   "devDependencies": {
-    "@commitlint/cli": "^15.0.0",
-    "@commitlint/config-conventional": "^15.0.0",
     "@octokit/core": "^3.6.0",
     "esbuild": "^0.15.15",
     "husky": "^7.0.4",
@@ -38,11 +36,6 @@
     "ui": "pnpm --filter @npwd/keyos",
     "query": "pnpm --filter @core/query",
     "router": "pnpm --filter @core/router"
-  },
-  "husky": {
-    "hooks": {
-      "pre-commit": "npx run format:staged"
-    }
   },
   "dependencies": {}
 }
