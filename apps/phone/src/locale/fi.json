@@ -24,9 +24,6 @@
         "ERROR": "Soittaessa tapahtui virhe"
       }
     },
-    "BROWSER": {
-      "NAME": "Selain"
-    },
     "SETTINGS": {
       "PHONE_NUMBER": "Puhelinnumero",
       "PREVIEW_SOUND": "Kuuntele ääntä",

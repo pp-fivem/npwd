@@ -1,8 +1,8 @@
 {
   "PhoneAsItem": {
-    "enabled": false,
-    "exportResource": "my-core-resource",
-    "exportFunction": "myCheckerFunction"
+    "enabled": true,
+    "exportResource": "qb-npwd",
+    "exportFunction": "HasPhone"
   },
   "customPhoneNumber": {
     "enabled": false,
@@ -87,9 +87,6 @@
   },
   "marketplace": {
     "persistListings": false
-  },
-  "browser": {
-    "homepageUrl": "https://docs.fivemanage.com"
   },
   "debug": {
     "level": "error",

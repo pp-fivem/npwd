@@ -81,84 +81,8 @@
       "value": "en"
     },
     {
-      "label": "Español",
-      "value": "es"
-    },
-    {
-      "label": "Français",
-      "value": "fr"
-    },
-    {
-      "label": "Norsk",
-      "value": "no"
-    },
-    {
-      "label": "Polski",
-      "value": "pl"
-    },
-    {
-      "label": "Bosanski",
-      "value": "ba"
-    },
-    {
-      "label": "Português",
-      "value": "pt"
-    },
-    {
-      "label": "Hungarian",
-      "value": "hu"
-    },
-    {
-      "label": "Čeština",
-      "value": "cs"
-    },
-    {
-      "label": "Nederlands",
-      "value": "nl"
-    },
-    {
-      "label": "Dansk",
-      "value": "da"
-    },
-    {
-      "label": "Deutsch",
-      "value": "de"
-    },
-    {
       "label": "Finnish",
       "value": "fi"
-    },
-    {
-      "label": "Italian",
-      "value": "it"
-    },
-    {
-      "label": "Indonesia",
-      "value": "id"
-    },
-    {
-      "label": "简体中文",
-      "value": "zhcn"
-    },
-    {
-      "label": "繁體中文",
-      "value": "zhtw"
-    },
-    {
-      "label": "Русский",
-      "value": "ru"
-    },
-    {
-      "label": "Svenska",
-      "value": "sv"
-    },
-    {
-      "label": "Türkçe",
-      "value": "tr"
-    },
-    {
-      "label": "Lietuvių",
-      "value": "lt"
     }
   ],
   "ringtones": [
@@ -255,9 +179,7 @@
     "TWITTER_notifyNewFeedTweet": true,
     "MARKETPLACE_notifyNewListing": true
   },
-  "appSettings": {
-    "browserHomePage": "https://docs.projecterror.dev"
-  },
+
   "iconSet": [
     {
       "label": "NPWD Icons",
